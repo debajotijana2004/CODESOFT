@@ -1,34 +1,12 @@
-Tic-Tac-Toe Game in C++
+🧮 Simple Calculator (C++)
 
-A simple Tic-Tac-Toe game for two players, written in C++. This console-based game includes a scoreboard, input validation, and the ability to play multiple rounds.
+A beginner-friendly console-based calculator built with C++ that performs basic arithmetic operations: addition, subtraction, multiplication, and division. This program is great for practicing fundamental C++ concepts such as variables, loops, conditionals, and user input.
 # Features
 
-    Two-player mode with custom player names.
+    Supports four basic operations: +, -, *, /
 
-    Turn-based gameplay for players X and O.
+    Handles division by zero gracefully
 
-    Input validation (prevents overwriting and invalid inputs).
+    User-friendly input prompts
 
-    Option to quit the game at any time.
-
-    Detects win and draw conditions.
-
-    Scoreboard that updates after each game.
-
-    Option to play again or exit after a round.
-
-# How the Game Works
-
-    Players enter their names.
-
-    Player X always starts the game.
-
-    Players take turns selecting cells numbered 1 to 9.
-
-    After each move, the board is displayed.
-
-    The game ends when one player wins or the board is full (draw).
-
-    A scoreboard is shown after each game.
-
-    Players are prompted to play again or quit.
+    Option to perform multiple calculations in one run
